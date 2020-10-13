@@ -1,0 +1,6 @@
+2020-10-3-13-27-11 : foodHitCount = 1 out of 6 ;  foodHitCellPos = (11 , 10) ; idxToErase = 1 ; superFoodHitCount = 0 out of 0 ; ghostHitCount = 0 ; ghostEatenCount = 0 ; 
+2020-10-3-13-27-24 : foodHitCount = 2 out of 6 ;  foodHitCellPos = (10 , 1) ; idxToErase = 2 ; superFoodHitCount = 0 out of 0 ; ghostHitCount = 0 ; ghostEatenCount = 0 ; 
+2020-10-3-13-27-35 : foodHitCount = 3 out of 6 ;  foodHitCellPos = (1 , 6) ; idxToErase = 1 ; superFoodHitCount = 0 out of 0 ; ghostHitCount = 0 ; ghostEatenCount = 0 ; 
+2020-10-3-13-27-51 : foodHitCount = 4 out of 6 ;  foodHitCellPos = (1 , 9) ; idxToErase = 0 ; superFoodHitCount = 0 out of 0 ; ghostHitCount = 0 ; ghostEatenCount = 0 ; 
+2020-10-3-13-28-10 : foodHitCount = 5 out of 6 ;  foodHitCellPos = (17 , 1) ; idxToErase = 0 ; superFoodHitCount = 0 out of 0 ; ghostHitCount = 0 ; ghostEatenCount = 0 ; 
+2020-10-3-13-28-10 : foodHitCount = 6 out of 6 ;  foodHitCellPos = (17 , 1) ; idxToErase = 0 ; superFoodHitCount = 0 out of 0 ; ghostHitCount = 0 ; ghostEatenCount = 0 ; 
